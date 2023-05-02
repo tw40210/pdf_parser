@@ -6,3 +6,4 @@
 - put `example.pdf` in `/data`
 ## RUN
 `python ./src/main.py`
+output: `data/memo_merged.txt`
