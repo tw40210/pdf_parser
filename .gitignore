@@ -1,0 +1,10 @@
+node_modules/
+py_env/
+*.pdf
+output.txt
+*/__pycache__
+*/*/__pycache__
+.idea/*
+*.jpg
+*.png
+data/
